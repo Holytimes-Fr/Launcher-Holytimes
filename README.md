@@ -1,4 +1,4 @@
-<p><img  src="./app/assets/images/logo.png" height="130px" alt="holytimes"></p>
+<p><img  src="https://holytimes.eu/storage/img/logo.png" height="130px" alt="holytimes"></p>
 
 <h1>Holytimes Launcher</h1>
 
